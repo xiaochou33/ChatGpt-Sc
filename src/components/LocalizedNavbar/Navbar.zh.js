@@ -6,11 +6,7 @@ const zhNavbar = {
     src: "img/logo.svg",
   },
   items: [
-    {
-      to: "https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html",
-      label: "ChatGPT 使用说明",
-      position: "left",
-    },
+
     {
       to: "https://nav.newzone.top",
       label: "开源工具导航",
